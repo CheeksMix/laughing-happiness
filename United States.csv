@@ -1,2 +1,2 @@
 date,store,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters,source_url,vaccine
-01/09/22,LEEANN,152804,1544927,889200,0,https://covid.cdc.gov/covid-data-tracker/#vaccination-trends,Pfizer/BioNTech
+2022-01-14	United States	525604449	248338448	207170846	78837404	https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2	Johnson&Johnson, Moderna, Pfizer/BioNTech
